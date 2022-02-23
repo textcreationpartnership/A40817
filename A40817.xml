@@ -1,0 +1,321 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Of the impunity of bad men in the world a sermon preach'd at White-hall, Decemb. 30, 1694 / by Philip Falle ...</title>
+            <author>Falle, Philip, 1656-1742.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40817</idno>
+            <idno type="STC">Wing F340</idno>
+            <idno type="STC">ESTC R585</idno>
+            <idno type="EEBO-CITATION">12495904</idno>
+            <idno type="OCLC">ocm 12495904</idno>
+            <idno type="VID">62506</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40817)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 62506)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 665:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Of the impunity of bad men in the world a sermon preach'd at White-hall, Decemb. 30, 1694 / by Philip Falle ...</title>
+                  <author>Falle, Philip, 1656-1742.</author>
+               </titleStmt>
+               <extent>[4], 27, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Newton ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Half title: Mr. Falle's sermon at White-Hall, Dec. 30, 1694.</note>
+                  <note>Erratum: p. 27.</note>
+                  <note>Includes bibliographical references.</note>
+                  <note>Advertisement: p. [1] at end.</note>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Ecclesiastes VIII --  Sermons.</term>
+               <term>Sin.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:62506:1"/>
+            <pb facs="tcp:62506:1"/>
+            <p>Mr. <hi>FALLE</hi>'s SERMON AT <hi>WHITE-HALL, Dec.</hi> 30. 1694.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:62506:2"/>
+            <pb facs="tcp:62506:2" rendition="simple:additions"/>
+            <p>Of the Impunity of Bad Men in the World</p>
+            <p>A SERMON Preach'd at White-Hall, <hi>Decemb.</hi> 30. 1694.</p>
+            <p>By <hi>PHILIP FALLE,</hi> Chaplain in Ordinary to His Majeſty.</p>
+            <p>Publiſh'd by Command.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Newton</hi> at the <hi>Three Pigeons,</hi> over-againſt the <hi>Inner-Temple-Gate,</hi> in <hi>Fleet-ſtreet,</hi> 1695.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:62506:3" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:62506:3"/>
+            <epigraph>
+               <q>
+                  <bibl>ECCLES. VIII. xi.</bibl>
+                  <p>Becauſe Sentence againſt an Evil Work is not executed ſpeedily, therefore the Heart of the Sons of Men is fully ſet in them to do Evil.</p>
+               </q>
+            </epigraph>
+            <p>NOthing has been more apt to give Of<g ref="char:EOLhyphen"/>fence, and to perplex the Minds of Men, than the Unequal Diſtribution of Rewards and Puniſhments in this Life. The Impunity of Bad Men in the World ſeems to many very hard to be accounted for. It may not therefore be amiſs to have this Matter rightly ſtated, and ſatisfaction given to anxious and doubting Minds about it. Which, ſo far as God enables me, I ſhall attempt from the Words I have read. <hi>Becauſe Sentence againſt an Evil Work is not executed ſpeedily, therefore the Heart of the Sons of Men is fully ſet in them to do Evil.</hi>
+            </p>
+            <p>They are the Words of a Great KING; the Reſult of that excellent Wiſdom with which God had enlarg'd his Royal Heart, and of the
+<pb n="2" facs="tcp:62506:4"/>long Obſervation he had made on the Ways of Providence in the Government of the World.</p>
+            <p>In ſpeaking to them I ſhall,
+<list>
+                  <item>
+                     <hi>Firſt,</hi> Shew ſome very dangerous Miſtakes that are about this Matter.</item>
+                  <item>
+                     <hi>Secondly,</hi> Expound this Riddle of Providence, the Impunity of Bad Men in the World.</item>
+               </list>
+            </p>
+            <div type="part">
+               <p>
+                  <hi>Firſt,</hi> Shew ſome very dangerous Miſtakes that are about this Matter. For, <hi>becauſe Sentence againſt an Evil Work is not Executed ſpeedily, THEREFORE the Heart of the Sons of Men is fully ſet in them to do Evil.</hi>
+               </p>
+               <p n="1">I. This has been the great Objection of Atheiſts in all Ages againſt the Being of a God<note n="(a)" place="margin">Sim<g ref="char:EOLhyphen"/>plic. <hi>in</hi> Epicter. <hi>Cap.</hi> 38.</note>. The Impunity of Bad Men in the World has been the common Popular Pretence to oppoſe the Belief of the Deity. That a God, arm'd with infinite and irreſiſtible Power, ſhould tamely ſuffer Bad Men to violate his Laws, and bid open Defiance to his Authority, and not to reſent the Affront, by ſending quick and ex<g ref="char:EOLhyphen"/>emplary Puniſhment on ſuch Tranſgreſſors, is what they think cannot be reconciled to a Ra<g ref="char:EOLhyphen"/>tional Apprehenſion. This, they ſay, is to de<g ref="char:EOLhyphen"/>ſtroy the Notion of a God; who, if he were,
+<pb n="3" facs="tcp:62506:4"/>would Govern the World by a more ſteady Juſtice. The Story of <hi>Diagoras</hi> is well known, who, ſeeing a Wretch forſwear himſelf and remain unpuniſh'd, became a Profeſſed Atheiſt.</p>
+               <p n="2">II. Others admit the Being of a God, but deny his Providence in the Adminiſtration of Human Affairs, becauſe they ſee Bad Men un<g ref="char:EOLhyphen"/>puniſh'd in the World<note n="(b)" place="margin">
+                     <hi>Cicer.</hi> de Nat. Deor. Lib. <hi>3.</hi> §. <hi>81.</hi> &amp;c. <hi>Salvian.</hi> de Gubern. Dei <hi>paſsim.</hi>
+                  </note>. They ſay, that if there was a Providence, ſollicitous about the Rectitude or Obliquity of Men's Actions, it would diſpenſe ſuitable Retributions. But the greateſt Villanies triumph with Impunity in the World! And this, they ſay, is a reproach to Providence: And an Argument that God takes no care of the little things of this lower World: That Virtue and Vice are alike to him: That he looks with indifferency on the Good or Evil of Human Acts: Which the <hi>Epicureans</hi> do ſay to be indeed beneath the Dignity and Excel<g ref="char:EOLhyphen"/>lency of ſo elevated a Nature as God, taken up in the Contemplation of his own Perfections and Happineſs, to be concern'd about.</p>
+               <p n="3">III. Bad Men that own a God and a Provi<g ref="char:EOLhyphen"/>dence, ſeeing their Crimes unpuniſh'd, fall into another Error. It raiſes them to a great Con<g ref="char:EOLhyphen"/>fidence
+<pb n="4" facs="tcp:62506:5"/>about the Nature of thoſe Actions, which becauſe God does not Puniſh they think cannot be Bad<note n="(c)" place="margin">Proſpe<g ref="char:EOLhyphen"/>tum ac fe<g ref="char:EOLhyphen"/>lix Sçelus Virtus vo<g ref="char:EOLhyphen"/>catur. <hi>Sen.</hi>
+                  </note>. They take this Impunity for a Token of the Divine Liking and Approbation: as <hi>Dionyſius</hi> ſaid the Gods were pleaſed with his Sacriledge, when they ſent him a proſperous Voyage after he had robb'd their Temples<note n="(d)" place="margin">Cicer. <hi>ut Supr.</hi> §. 83.</note>. How often is Succeſs urged in the World to ju<g ref="char:EOLhyphen"/>ſtifie the goodneſs of an Action. This may have ſome weight as to Publick Societies, which have their Reward in this World. Outward Proſperity may be indeed a good Indication of God's Favour to Publick and National Intereſts: A very good Sign of his Bleſſing upon great Tranſactions wherein Kingdome are concern'd. But tis a very fallacious Rule to judge of Par<g ref="char:EOLhyphen"/>ticular Actions and Caſes by theſe External Ad<g ref="char:EOLhyphen"/>miniſtrations of Providence. And there is this pecular inconvenience in it: That tis the great<g ref="char:EOLhyphen"/>eſt Impediment I know to Repentance and A<g ref="char:EOLhyphen"/>mendment of Life. For how ſhould that Man Repent who is poſſeſſed with an Opinion, that a Fact, for which he is call'd upon to ask God Forgiveneſs, has had the Divine Stamp and Teſti<g ref="char:EOLhyphen"/>mony of Succeſs to prove the lawfulneſs of it? Theſe Deluſions are frequent among Men.</p>
+               <pb n="5" facs="tcp:62506:5"/>
+               <p n="4">IV. There is a Fault incident to many other<g ref="char:EOLhyphen"/>wiſe Good Men. They are uneaſie at the Im<g ref="char:EOLhyphen"/>punity of Bad Men in the World. They re<g ref="char:EOLhyphen"/>pine at the Patience and Long-ſuffering of God towards them. And this undoubtedly is a Sin. For <hi>is their Eye Evil becauſe their Maſter is Good</hi>
+                  <note n="(e)" place="margin">Mat. xx. 15.</note>? And ought they not to acquieſce in the Divine Methods and Diſpenſations, and adore the Righteouſneſs of God's Ways in the World, altho' perhaps they cannot comprehend them? Thus <hi>Jonah</hi> was Angry becauſe God ſpared <hi>Nineveh</hi>
+                  <note n="(f)" place="margin">Jonah iv. 1, 2.</note>. <hi>I knew,</hi> ſays he, <hi>that thou art a Gracious God, and Merciful, ſlow to Anger, and of great Kindneſs, and repenteſt thee of the Evil.</hi> A ſtrange reaſon to be Angry with God for! And there appears to have been ſomething of this Spirit and Temper in the Author of the LXXIII. Pſalm<note n="(g)" place="margin">Ver. <hi>2.</hi> &amp;c.</note>. <hi>As for me, my feet were almoſt gone, my Steps had well nigh ſlip'd. For I was envious at the Fooliſh, when I ſaw the Proſperity of the Wicked. For there are no Bands in their Death, but their ſtrength is firm. They are not in trouble as other Men, neither are they plagued like other Men. Behold theſe are the Ungodly, who proſper in the World: They increaſe in Riches. Verily, I have cleanſed my Heart in vain, and waſhed my hands in Innocency.
+<pb n="6" facs="tcp:62506:6"/>For all day long have I been plagued, and chaſtned every Morning.</hi> And <hi>Jeremiah</hi> expoſtulates thus the matter with God<note n="(h)" place="margin">
+                     <hi>Chap.</hi> xii. <hi>Ver.</hi> 1, 2.</note>. <hi>Righteous art thou, O Lord, when I plead with thee: Yet let me talk with thee of thy Judgments. Wherefore doth the way of the Wicked proſper? Wherefore are all they happy that deal very Treacherouſly? Thou haſt planted them, yea, they have taken root: They grow, yea, they bring forth Fruit.</hi>
+               </p>
+               <p n="5">V. But the Great and Common Evil that is among Men, ariſing from the Impunity of Bad Men in the World, is, that there are very Few that from thence do not take Encouragement to go on ſecurely in their Sins: not dreading that Puniſhment which ſome think will never come; others look on at ſuch a Diſtance that the Apprehenſion of it is not ſtrong enough to make them <hi>turn from their Evil Ways:</hi> Which probably may be All the Wiſe KING intended in the Text, tho the words may alſo bear a larger Conſtruction; For <hi>to do Evil</hi> are Terms of great Latitude. <hi>Becauſe Sentence againſt an Evil Work is not executed ſpeedily, THEREFORE the Heart of the Sons of Men is fully ſet in them TO DO EVIL.</hi>
+               </p>
+               <pb n="7" facs="tcp:62506:6"/>
+            </div>
+            <div type="part">
+               <p>
+                  <hi>Secondly,</hi> Expound this Riddle of Providence, the Impunity of Bad Men in the World.</p>
+               <p n="1">1. Publick Societies or Bodies of Men are Puniſh'd in this World, tho' Particular Perſons may not. By Publick Societies I mean King<g ref="char:EOLhyphen"/>doms, Nations, and States, and Churches; theſe being alſo conſidered as Societies of Chriſtian Men, who have ſpecial Rules ſet them for their Conduct, in that Relation wherein they ſtand to each other. For inſtance. National Judg<g ref="char:EOLhyphen"/>ments for National Sins, are, Immoderate Droughts, exceſſive Rains, and Inundations of Waters, Contrary Seaſons, and a Conflict in the Elements, all which cauſe Famines and Barren<g ref="char:EOLhyphen"/>neſs in the Earth: Peſtilences, and other Contagi<g ref="char:EOLhyphen"/>ous and Malignant Diſtempers; <q rend="margQuotes">Like That which having lately raged over ſeveral Parts of the Kingdom, has at laſt deprived us of our Excellent, our Incomparable, QUEEN; whoſe Pious, Juſt, Mild, and Prudent Govern<g ref="char:EOLhyphen"/>ment, in Conjunction with our Gracious SOVEREIGN, was ſo Great a Bleſſing to theſe Nations; A Bleſſing which our Sins made us unworthy of; Therefore God in his Great Anger has taken her away from us,
+<pb n="8" facs="tcp:62506:7"/>and Tranſlated Her to a better Crown:</q> Con<g ref="char:EOLhyphen"/>flagrations: Earthquakes: The Miſeries and Deſo<g ref="char:EOLhyphen"/>lations of unproſperous and unſucceſsful War: Infatuation of Publick Miniſteries and Councels: Civil Diſcords: and the like. Puniſhments at<g ref="char:EOLhyphen"/>tending Chriſtian Societies, are, Hereſies, or Errors in Doctrine, <hi>Strong Deluſions</hi>
+                  <note n="(i)" place="margin">2 Theſſ. ii. 11.</note>, A Lying and a Credulous Spirit ſent out among Men: Schiſms and Diſſentions among Brethren: Out<g ref="char:EOLhyphen"/>ward Perſecutions from Adverſaries: And laſtly, a removal of God's <hi>Candleſtick</hi>
+                  <note n="(k)" place="margin">Rev. ii. 5.</note>, and a transferring of his <hi>Kingdom to others that will bring forth the Fruits thereof</hi>
+                  <note n="(l)" place="margin">Matth. xxi. 43.</note>. With ſuch Judg<g ref="char:EOLhyphen"/>ments as theſe Almighty God Puniſhes the Sins of Civil and Religious Communities in this World: And they are therefore call'd Tempo<g ref="char:EOLhyphen"/>ral Judgments, becauſe they are inflicted here, and can be no where elſe; and to put a dif<g ref="char:EOLhyphen"/>ference betwixt Them, and thoſe Eternal Judg<g ref="char:EOLhyphen"/>ments that are reſerved for Particular Bad Men in the other World.</p>
+               <p>And God ſeldom delays theſe Judgments upon Societies, as he delays the Puniſhment of Particular Perſons, for this plain Reaſon: That, ſhould theſe Judgments be reſpited too long, they would not fall on thoſe Sinful Generations that have deſerved them, and have provoked
+<pb n="9" facs="tcp:62506:7"/>God to ſend them abroad into the World. Thoſe Generations would paſs away, and, be<g ref="char:EOLhyphen"/>ing gone, theſe Judgments would not reach them. The guilty Dead would not feel theſe Publick Calamities in their Graves.</p>
+               <p n="2">2. As for Particular Bad Men, they are a Pu<g ref="char:EOLhyphen"/>niſhment to themſelves. A Bad Man always bears a ſecret Puniſhment within Him. Every ill Action he does expoſes him to the ſevere Rebukes and Laſhes of his own Conſcience<note n="(m)" place="margin">
+                     <hi>Cicer. de Leg. Lib. 1.</hi> §. <hi>40</hi> Paenas lu<g ref="char:EOLhyphen"/>unt homines non tàm Judiciis quàm an<g ref="char:EOLhyphen"/>gore Conſci<g ref="char:EOLhyphen"/>entiae.</note>. And there can hardly be a greater Puniſhment than a Guilty Mind to a Bad Man in this World. Moreover, the Tumult and Diſorder of his Paſſions, which claſh with each other, and often meet with exaſperating Difficulties in the purſuit of unlawful Objects, his reſtleſs Deſires, his awakening Fears, and Jealouſies, and Diſtruſts, and Thirſt of Revenge, Theſe, and a Thouſand things more of the like nature, diſturb the Peace and Tranquillity of his Soul. For <hi>the Wicked are like the troubled Sea, when it cannot reſt, whoſe Waters caſt up Mire and Dirt: There is no Peace, ſaith my Gd, to the Wicked</hi>
+                  <note n="(n)" place="margin">Iſa. lvii. 20, 21.</note>. A Bad Man can never have that inward Complacency and Eaſe which is the peculiar Fruit of an innocent and well-ſpent
+<pb n="10" facs="tcp:62506:8"/>Life; which ſprings from a good Con<g ref="char:EOLhyphen"/>ſcience, and from calm and well-govern'd Paſ<g ref="char:EOLhyphen"/>ſions. So that tho' we ſhould ſuppoſe a Bad Man to live Proſperouſly, as to all outward Enjoyments and Circumſtances of Life, and to depart at laſt from the World without any ap<g ref="char:EOLhyphen"/>parent Mark of Divine Diſpleaſure againſt him for his Sins, ſtill it cannot be ſaid that he goes off Unpuniſh'd, ſo long as whilſt he lived he carried theſe Tormentors in his Breaſt, <hi>viz.</hi> theſe Horrors and Anxieties of Conſcience, theſe fret<g ref="char:EOLhyphen"/>ting and vexatious Paſſions, which were a ter<g ref="char:EOLhyphen"/>rible Puniſhment tho' he ſuffer'd no other. And this <hi>Plutarch</hi>
+                  <note n="(o)" place="margin">Lib. de eis qui ſerò puniuntur à Numine.</note> urges, in anſwer to thoſe who in his Time denied the Divine Providence in the World, becauſe they ſaid the Wicked were not puniſh'd. Are they not puniſh'd who lie under ſuch cruel Agonies of Mind, and whom ſtill one raging Luſt or other robs of all the Good and Quiet of their Lives? which is the caſe of <hi>every Soul of Man that doth Evil.</hi>
+               </p>
+               <p n="3">3. Nor are Bad Men ſecure even againſt Out<g ref="char:EOLhyphen"/>ward Puniſhment. For Wickedneſs and Vice are not always Proſperous in the World. There have been in all Times innumerable Inſtances
+<pb n="11" facs="tcp:62506:8"/>of Bad Men, who have been as Poor, and Wretched, and in every reſpect as Unhappy in the World, as others; have met with as many Misfortunes, and Diſappointments, and croſs Accidents; have been as deſtitute of all the Comforts of Life; and have had as Tragical Ends. Wickedneſs and Vice have a natural Tendency to make Men miſerable in this World: But Providence often interferes by more Im<g ref="char:EOLhyphen"/>mediate Puniſhments. God does not always Puniſh Bad Men in this World, but he does it ſometimes. Not a day but he cruſhes one bold Sinner or other into ruine. We too often call Caſualties, and Fortuitous Diſaſters, things that the Effects of the Divine Indignation, tho' it acts by Secondary Cauſes: But ſome Puniſhments bear very Signal Marks of Divine Vengeance, and one may viſibly diſcern <hi>the Finger of God</hi> in them. Therefore no Bad Man can promiſe himſelf Impunity even in this World, and <hi>Sen<g ref="char:EOLhyphen"/>tence againſt an Evil Work</hi> IS ſometimes <hi>executed ſpeedily.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <p>This were enough to vindicate the Divine Juſtice and Providence from the Exceptions and Cavils of Men, tho' no more were ſaid in this
+<pb n="12" facs="tcp:62506:9"/>Matter. For this ſhews that there is a God; That he is no idle Spectator of Human Affairs; That he is an Enemy to Wickedneſs and Vice; That he is concern'd for the Honour and Ma<g ref="char:EOLhyphen"/>jeſty of his Laws; And that many times Pu<g ref="char:EOLhyphen"/>niſhment hangs o'er a Sinner's head, like a Cloud charg'd with Thunder, ready to break upon him when he is leaſt aware of it. But I ſhall purſue this Argument further. For ſtill it is very evident that God does not always puniſh Bad Men in this World. He Puniſhes Some, but he Puniſhes not All. Many lead very Wicked Lives, who, ſetting aſide that in<g ref="char:EOLhyphen"/>ward Trouble of Mind, which no Bad Man can more or leſs be exempt from, live in great Proſperity and Affluency of all the Good Things of this World.</p>
+               <p>The End of Divine Puniſhment in this World muſt be the Correction or the Deſtru<g ref="char:EOLhyphen"/>ction of the Offender. But there are very good Reaſons why God does not always Puniſh Bad Men in this World, with reſpect to either of Theſe.</p>
+               <pb n="13" facs="tcp:62506:9"/>
+            </div>
+            <div type="part">
+               <p>With reſpect to the <hi>Firſt,</hi>
+               </p>
+               <p n="1">I. God does not always Puniſh Bad Men in this World, becauſe he conſiders Men as Rational Creatures, and who ought therefore to be dealt with by Rational Methods. Preſent and Frequent Puniſh<g ref="char:EOLhyphen"/>ments would not be congruous to the Na<g ref="char:EOLhyphen"/>ture of Man. The Rod and the Whip are only fit for Beaſts, Creatures void of Underſtanding, but of quick Senſe, not to be argued but laſh'd into Duty by the Pungency of Preſent Pain. But to Man, endowed with Reaſon, capable of looking Forwards, and of taking a Proſpect of Things tho' at never ſo great a Diſtance, the Threats of Future Puniſhment are a ſuf<g ref="char:EOLhyphen"/>ficient Check; nor is it needful that God, in the ordinary Courſe of his Juſtice in this World, ſhould uſe any other. I ſay, in the ordinary Courſe of his Juſtice, becauſe ſome Examples may be neceſſary in the World. But, for the Generality of Men, This no doubt is the moſt ſuitable Method, becauſe it leaves room for the exerciſe of the Pow<g ref="char:EOLhyphen"/>ers
+<pb n="14" facs="tcp:62506:10"/>of Reaſon. God has given to every Man Natural Notices of Good and Evil. To us Chriſtians he has added his Word for a more perfect Rule of Life. He Encou<g ref="char:EOLhyphen"/>rages Good Men: He Threatens the Bad: And he has actually Puniſh'd ſome, even in this World, for a Warning to others. After that, what can be proper for God to do more, but to leave the reſt and groſs of Mankind to the Uſe of that Reaſon he has given them? Should God be always buſie in Beating and Puniſhing Men in this World, it had been enough to have endow'd them with the Common Inſtinct or Senſe of Feeling. And accordingly I obſerve that St. <hi>Paul,</hi> in his Epiſtle to the <hi>Romans</hi>
+                  <note n="(p)" place="margin">Ch. <hi>xii.</hi> Ver. <hi>1.</hi>
+                  </note>, calls that Service which God requires from Man in this World, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>a Reaſonable Service;</hi> that is, a Service grounded on the Convi<g ref="char:EOLhyphen"/>ction of the Judgment, and on the Princi<g ref="char:EOLhyphen"/>ples and Deductions of Reaſon.</p>
+               <p n="2">II. God does not always Puniſh Bad Men in this World, becauſe Man is a Free Agent: But Preſent Puniſhment would bring a Force and a Compulſion upon him, in
+<pb n="15" facs="tcp:62506:10"/>conſiſtent with that Freedom; and his Obe<g ref="char:EOLhyphen"/>dience to God would not be Voluntary, be<g ref="char:EOLhyphen"/>cauſe it were not Free<note n="(q)" place="margin">Vid. <hi>Ter<g ref="char:EOLhyphen"/>tul.</hi> adverſ. <hi>Marcion.</hi> Lib. <hi>II.</hi> Cap. <hi>5.</hi> &amp; <hi>6.</hi>
+                  </note>. It would not be the Obedience of a Man, prompted by in<g ref="char:EOLhyphen"/>ward Inclination and Choice, but the Obe<g ref="char:EOLhyphen"/>dience of a <hi>Machine,</hi> mov'd by outward Violence and Impulſe: There would be no<g ref="char:EOLhyphen"/>thing Commendable in it. Here then muſt be Temperament, that the continual Awe and Dread of Puniſhment may not deſtroy the Freedom of the Will. Men ought to reve<g ref="char:EOLhyphen"/>rence the Divine Judgments, but they muſt not be ſo always under the Stroke and Ter<g ref="char:EOLhyphen"/>ror of the Rod, as to be thereby depriv'd of the Liberty of their Actions. Thus God, in not executing ſpeedy Puniſhment upon Sinners in this World, ſhews won<g ref="char:EOLhyphen"/>derful Wiſdom, and a due Regard to the Frame of Humane Nature.</p>
+            </div>
+            <div type="part">
+               <p>With reſpect to the <hi>Second,</hi>
+               </p>
+               <p n="1">I. God does not always Puniſh Bad Men in this World, becauſe He <hi>takes no Pleaſure in the Death of the Wicked</hi>
+                  <note n="(r)" place="margin">Ezek. xxxiii. 11.</note>, and does not <hi>afflict willingly, nor grieve the Children of Men</hi>
+                  <note n="(ſ)" place="margin">Lament. iii. 33.</note>. Now
+<pb n="16" facs="tcp:62506:11"/>'tis very conſonant to Reaſon that he ſhould not haſten, what he does not <hi>will<g ref="char:EOLhyphen"/>ingly.</hi> And this gives a Noble Idea of the Divine Nature; free from Cruelty, raiſed above all the ſowre and Vindictive Paſſi<g ref="char:EOLhyphen"/>ons of Men; like that Glorious Heaven in which he dwells, where reigns an Eter<g ref="char:EOLhyphen"/>nal Sweetneſs and Serenity, while Storms and Tempeſts are form'd in the lower Regions. Were God pleaſed with the Suf<g ref="char:EOLhyphen"/>ferings and Miſeries of Men, with what horrid Executions and Tragedies would he not every Day fill the World, when ſo many Blaſphemies and Impieties againſt him call daily aloud for Vengeance? But our Gracious and Good God bears long with Sinners, becauſe 'tis with Regret that he deſtroys his Creatures; who therefore may be more properly ſaid to deſtroy themſelves, ſince, when at any time they are puniſh'd, 'tis rather their Choice than his Act.</p>
+               <p n="2">II. God does not always Puniſh Bad Men in this World, that he may ſet Man kind an Example of Longanimity, and
+<pb n="17" facs="tcp:62506:11"/>Meekneſs under Injuries, and of mutual Forbearance to each other. And the World needs ſuch an Example. <hi>God is provoked eve<g ref="char:EOLhyphen"/>ry Day</hi>
+                  <note n="(t)" place="margin">Pſ. vii. 12.</note>: Yet God paſſes by thoſe Provo<g ref="char:EOLhyphen"/>cations, and bears with them that moſt grievouſly offend him. 'Tis to teach us to moderate our Heats, to conquer our Reſentments, and not upon every bad Turn that Men do unto us to fly to ſpeedy Revenge, and to Retaliate Evil for Evil. We ought to ſtudy nothing ſo much as to imitate the Divine Excellencies and Perfecti<g ref="char:EOLhyphen"/>ons; and then indeed we become like God, when, like him, we ſhew Kindneſs and good Will even to thoſe that deſerve our Hatred and our Averſion. <hi>Love your Enemies, do good to them that hate you, and ye ſhall be the Children of the Higheſt, who is Kind to the Unthankful and to the Evil, who maketh his Sun to riſe on Evil and on the Good, and ſendeth his Rain on the Juſt and on the Unjuſt,</hi> ſays our Bleſſed Lord and Saviour<note n="(u)" place="margin">Mat. v. 45. Luke vi. 35.</note>. This then is a ve<g ref="char:EOLhyphen"/>ry good Reaſon why God does not always Puniſh Bad Men in this World; and it muſt be agreeable to thoſe innate Impreſſions which all Mankind have of the Divine Na<g ref="char:EOLhyphen"/>ture,
+<pb n="18" facs="tcp:62506:12"/>foraſmuch as <hi>Plutarch</hi> himſelf, a Heathen Philoſopher, uſes it on the like Occaſion<note n="(w)" place="margin">Lib. de cis qui ſerò pu<g ref="char:EOLhyphen"/>niuntur a Nu<g ref="char:EOLhyphen"/>mine.</note>.</p>
+               <p>And ſince the Words of the Text are the Words of a ROYAL PREACHER, and that this is too God-like a Virtue to be confin'd among Private Men, why may we not ſuppoſe that the Great Governor of the World deſigns this Lenity and Indul<g ref="char:EOLhyphen"/>gence to Sinners for an Example alſo to Thoſe whom he has conſtituted his Vice-ge<g ref="char:EOLhyphen"/>rents on Earth<note n="(x)" place="margin">
+                     <hi>Senec.</hi> de Clem. <hi>Lib. I. Cap. 5.</hi> Deorum ſibi animum aſſe<g ref="char:EOLhyphen"/>rens PRIN<g ref="char:EOLhyphen"/>CEPS, a<g ref="char:EOLhyphen"/>lios ex Civibus ſuis, quia utiles boni<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ſunt, li<g ref="char:EOLhyphen"/>bens videat; a<g ref="char:EOLhyphen"/>lios in nume<g ref="char:EOLhyphen"/>rum relinquat. Quoſdam eſſe gaudeat, quoſ<g ref="char:EOLhyphen"/>dam patiatur.</note>? KINGS are called <hi>Gods</hi> in Scripture<note n="(y)" place="margin">
+                     <hi>Pſal.</hi> LXXXII. 1.6.</note>, and they all bear the Sacred Character of that Almighty Power that Rules the Univerſe; But then they may be truly ſaid to be the lively Images of the He avenly KING, when, like him, they are ſlow to Puniſhment, and ſhew Mercy where they might uſe Severity.</p>
+               <p n="3">III. God does not always Puniſh Bad Men in this World, that they may have time to Re<g ref="char:EOLhyphen"/>pent and grow better. And this Reaſon is alſo given by the Heathen Moraliſt<note n="(z)" place="margin">
+                     <hi>Plutarch.</hi> ut ſupr.</note>. <hi>Though a Sinner do Evil an Hundred times, his Days are Prolong'd,</hi> ſays our ROYAL
+<pb n="19" facs="tcp:62506:12"/>PREACHER, in the Verſe which fol<g ref="char:EOLhyphen"/>lows the Text. <hi>Prolong'd</hi> no doubt for this, that, ſeeing the Iniquity of his Ways, he may <hi>fly from the Wrath to come</hi>
+                  <note n="(a)" place="margin">Mat. iii. 7.</note>, which the Di<g ref="char:EOLhyphen"/>vine Benignity intends all Men ſhould have the Wiſdom to do.</p>
+               <p n="4">IV. God does not always Puniſh Bad Men in this World, becauſe this World is a State of Probation and Trial: And ſuch a State will not admit of Preſent Puniſhment. For in order to be prov'd Men muſt be left in a manner to themſelves.</p>
+               <p n="5">V. God does not always Puniſh Bad Men in this World, becauſe they are to <hi>have their Portion in it</hi>
+                  <note n="(b)" place="margin">Pſ. xvii. 14.</note>. Few Men are ſo very Bad as not to do ſome Good one time or other: And though That may not be enough to entitle them to the Glorious Rewards of another World, it may be e<g ref="char:EOLhyphen"/>nough to procure them a Reprieve from Puniſhment, and ſome Temporal Bleſſings in This. For the Righteous Judge of the World will not ſuffer the Good Actions even of Bad Men to go without a Recom<g ref="char:EOLhyphen"/>pence:
+<pb n="20" facs="tcp:62506:13"/>And it muſt be ſuch an one as this World will afford. <hi>Jehu</hi> was certainly a Bad Man; yet, for one Good Work that he did, in deſtroying the Houſe of <hi>Ahab,</hi> as God had Commanded him, he enjoyed great Proſperity in his days, he died in Peace, and God promiſed that <hi>his Children of the Fourth Generation ſhould ſit on the Throne of Iſrael</hi>
+                  <note n="(c)" place="margin">2 Kings x. 30.</note>. Thus, the Wicked Rich Man was told in Hell that <hi>in his Life time he had received His Good Things</hi>
+                  <note n="(d)" place="margin">Luke xvi. 25.</note>.</p>
+               <p n="6">VI. God does not always Puniſh Bad Men in this World, becauſe they are ſo in<g ref="char:EOLhyphen"/>termix'd with the Good, that the One can<g ref="char:EOLhyphen"/>not be Puniſh'd but the Other muſt par<g ref="char:EOLhyphen"/>ticipate in their Puniſhment: God there<g ref="char:EOLhyphen"/>fore ſpares the Bad, in pity and compaſſi<g ref="char:EOLhyphen"/>on to the Good. If Bad Men did live in this World apart by themſelves, then God might puniſh them without involving the Good in their Calamity: But there are ſuch common Tyes of Blood, and Kindred, of Alliance, and Friendſhip, of Intereſt, and the like, betwixt Them, that the Puniſh<g ref="char:EOLhyphen"/>ment of the One would be a real Tor<g ref="char:EOLhyphen"/>ment
+<pb n="21" facs="tcp:62506:13"/>and Affliction to the other. A Righteous Father may have a very Wicked Son, and a Righteous Son may have a very Wicked Father: But could a Fa<g ref="char:EOLhyphen"/>ther ſee his own Bowels, or a Son Him that begot him, hurried to Puniſhment, and not be concern'd at it? There will be a Time when all theſe Relations of Fleſh and Blood will ceaſe; and That will be a proper Seaſon for Puniſhment. In this World, the <hi>Tares</hi> cannot be <hi>gathered</hi> without <hi>rooting up the Wheat with them:</hi> Therefore they muſt both <hi>grow up together until the Harveſt</hi>
+                  <note n="(e)" place="margin">Matth. xiii. 24. <hi>&amp;c.</hi>
+                  </note>. In Publick and National Judgments Good Men indeed do of<g ref="char:EOLhyphen"/>ten ſuffer undiſcriminately with the Bad, be<g ref="char:EOLhyphen"/>cauſe it cannot be otherwiſe. But even Publick and National Judgments have been averted in favour to Good Men, who elſe muſt have ſhar'd in the Common Miſeries of their Country. <hi>Sodom</hi> it ſelf, that Wicked City, might <hi>have remain'd until this day,</hi> had there been but <hi>Ten</hi> Good Men in it. God would <hi>not have deſtroy'd it for their ſakes</hi>
+                  <note n="(f)" place="margin">Gen. xviii. 32.</note>.</p>
+               <p n="7">VII. God does not always Puniſh Bad Men in this World, that he may exerciſe the Faith of Good Men. When a Good Man
+<pb n="22" facs="tcp:62506:14"/>ſees a Notorious Malefactor remain unpuniſh'd, nay, Flouriſh and Proſper, as tho' there was no God nor Providence in the World, 'tis an excellent Occaſion that God gives him to retire within Himſelf, to live above Senſe and External Shews and Appear<g ref="char:EOLhyphen"/>ances, to abſtract his Thoughts from Groſs and Corporeal Objects, to look be<g ref="char:EOLhyphen"/>yond this Life, and to raiſe his Mind to the Contemplation of the Unſeen and Inviſible Things of another World; In a Word, <hi>to walk by Faith,</hi> and <hi>not by Sight</hi>
+                  <note n="(g)" place="margin">2 Cor. v. 7.</note>. Such was the Faith of the ancient Ser<g ref="char:EOLhyphen"/>vants of God, when in their Time un<g ref="char:EOLhyphen"/>puniſh'd and ſucceſsful Impiety o'erflow'd the World, and their <hi>Righteous Souls were daily vex'd with the filthy Converſation of the Wicked</hi>
+                  <note n="(h)" place="margin">2 Pet. ii. 7, 8.</note>. <hi>We look not at the things which are ſeen,</hi> ſays the Apoſtle<note n="(i)" place="margin">2 Cor. iv. 18.</note>, <hi>but at the things which are not ſeen.</hi> And <hi>This is that Faith that overcomes the World</hi>
+                  <note n="(k)" place="margin">1 John v. 4:</note>. Should God ex<g ref="char:EOLhyphen"/>ecute Judgment in this World according to every Man's Deſerts, there would be little left for Good Men to exerciſe their Faith about. It would be no longer Faith, but Evidence. Good Men indeed may be ſurpriz'd at the Impunity of Bad Men
+<pb n="23" facs="tcp:62506:14"/>in the World; But when they look further into the Matter, they will find great Reaſon to adore the Wiſdom and Equity of the Di<g ref="char:EOLhyphen"/>vine Counſels, and to cry out in the Lan<g ref="char:EOLhyphen"/>guage of the Scripture, <hi>Great and Marvellous are thy Works, O Lord God Almighty! Juſt and True are thy Ways, thou King of Saints</hi>
+                  <note n="(l)" place="margin">Rev. xv. 3.</note>!</p>
+               <p n="8">VIII. God does not always Puniſh Bad Men in this World, becauſe, ſays <hi>Plutarch,</hi>
+                  <note n="(m)" place="margin">
+                     <g ref="char:V">Ʋ</g>t ſup.</note> he reſerves them to be a Puniſhment to others. Even Good Men may need Cor<g ref="char:EOLhyphen"/>rection. When they do ſo, and God will have the hands of Men to intervene in it, he does not uſually employ the Miniſtry of other Good Men to chaſtiſe them; He em<g ref="char:EOLhyphen"/>ploys Bad Men, as fitteſt for that Work: And he makes the Bad Puniſh one another. So that Bad Men are indeed in the World, what Common Executioners are in the beſt and wiſeſt Governments. They are the Publick Lictors that carry the Rods and Axes of the Supream Dictator of the World, and muſt therefore be put in a Capacity to execute the Orders and Decrees of his Ju<g ref="char:EOLhyphen"/>ſtice. This is to be underſtood more par<g ref="char:EOLhyphen"/>ticularly of ſome Bad Men. Thoſe I mean
+<pb n="24" facs="tcp:62506:15"/>that are rais'd to Power and Authority in the World, and are thereby enabled to do ſo much the more Miſchief. And this is the Caſe of Tyrants, and other Great Op<g ref="char:EOLhyphen"/>preſſors, and Enemies of the Repoſe and Happineſs of Mankind. All theſe muſt be confeſs'd to be Inſtruments in the hand of God, for the Puniſhment of thoſe whom through their means he intends to Puniſh in this World. But they themſelves muſt remain Unpuniſh'd: At leaſt, until they have ſerv'd the Ends of His Juſtice: and then their Turn may alſo come to Drink of the Cup of his Fury, and to be Pu<g ref="char:EOLhyphen"/>niſh'd by others as Bad as themſelves.</p>
+               <p>And is not this admirable Wiſdom? In general, All Bad Men may be ſaid to be the Miniſters of the Divine Vengeance for the Puniſhment of each other. For being acted by Contrary Paſſions and Intereſts, led by Different Humours and Deſigns, they are perpetually thwarting and juſtling one another, and they are as Thorns and Goads in each other's ſide; the Hand of every one of them being continually <hi>againſt his Fellow</hi>
+                  <note n="(n)" place="margin">Judg. vii. 22.</note>. Which in great meaſure ſuperſedes the Ne<g ref="char:EOLhyphen"/>ceſſity of more direct Puniſhment from
+<pb n="25" facs="tcp:62506:15"/>God: For they take the Work out of God's Hands: and in this World one Bad Man is a Plague and a Scourge to another.</p>
+               <p n="9">IX. God does not always Puniſh Bad Men in this World, becauſe their Sins are not yet ripe for Puniſhment. The Mea<g ref="char:EOLhyphen"/>ſure of their <hi>Iniquities is not yet full</hi>
+                  <note n="(o)" place="margin">Gen. xv. 16.</note>. <hi>Ne<g ref="char:EOLhyphen"/>mo repente fit Turpiſſimus.</hi> No Man becomes thoroughly Wicked at once. It muſt be Step after Step. One Sin muſt be added to another. From a ſmall Heap they muſt riſe to a Mountain: And then let the Sin<g ref="char:EOLhyphen"/>ner prepare to meet <hi>A JWDOMENT WORTHY OF GOD.</hi> And therefore,</p>
+               <p>X. <hi>Laſtly,</hi> God does not always Puniſh Bad Men in this World, becauſe he <hi>has appointed a Day</hi> wherein he will paſs a ſtrict and im<g ref="char:EOLhyphen"/>partial Judgment upon All Men, and will final<g ref="char:EOLhyphen"/>ly <hi>render to every one according to his Works</hi>
+                  <note n="(p)" place="margin">Matth. xvi. 27.</note>. God needs not Puniſh Bad Men in this World, ſo long as he means to reckon with them in another World, and that ſooner or later they muſt fall into his hands. And ſince <hi>a Thouſand Years with the Lord are but as one Day</hi>
+                  <note n="(q)" place="margin">2 Pet. iii. 8.</note>, That ſhort Impunity which Bad
+<pb n="26" facs="tcp:62506:16"/>Men enjoy for a few Years in this World, attended with the endleſs Torments of ano<g ref="char:EOLhyphen"/>ther World, can be no Objection againſt the Divine Juſtice and Providence. Nay, Bad Men muſt account for this Impunity they now enjoy. It will aggravate their Guilt, and add to their Puniſhment, that they made no better uſe of the Opportunity of Grace that was put into their hands, not conſidering <hi>that the Goodneſs of God led them to Repentance</hi>
+                  <note n="(r)" place="margin">Rom. ii. 4.</note>. Nor is there a more certain Proof of a Future State<note n="(ſ)" place="margin">See Dr. <hi>Sherlock</hi> of Judgment. Ch. <hi>1. §. 3.</hi>
+                  </note>, where God will retribute Puniſhments proporti<g ref="char:EOLhyphen"/>oned to every one's Demerits, than the Im<g ref="char:EOLhyphen"/>punity of Bad Men in the World. That God does not Puniſh them now, ſays <hi>Chry<g ref="char:EOLhyphen"/>ſoſtom</hi>
+                  <note n="(t)" place="margin">Ad Pop. <hi>Autioch.</hi> Hom. <hi>xlvi.</hi>
+                  </note>, is a Sad Preſage that he has ſome Terrible Vengeance in ſtore for them.</p>
+            </div>
+            <div type="part">
+               <p>From what has been ſaid it may appear how little Reaſon ſome Men have to Im<g ref="char:EOLhyphen"/>peach, and call into queſtion, the Divine Ju<g ref="char:EOLhyphen"/>ſtice and Providence, becauſe Bad Men re<g ref="char:EOLhyphen"/>main Unpuniſh'd in the World. Not that I think it poſſible to trace every Footſtep, and ſolve All the Various Phenomena of Provi<g ref="char:EOLhyphen"/>dence in the World. God's <hi>Judgments are a
+<pb n="27" facs="tcp:62506:16"/>great Deep</hi>
+                  <note n="(u)" place="margin">Pſa. xxxvi. 6.</note>: His <hi>Ways are paſt finding out. For who has known the Mind of the Lord? and who has been his Counſellor</hi>
+                  <note n="(w)" place="margin">Rom. xi. 33, 34.</note>? But we may know as much as is neceſſary to ſet our Minds at eaſe about this Matter: Wherein if any thing yet remains that we cannot now ex<g ref="char:EOLhyphen"/>tricate, let us remember that a Day is coming that will clear up This, and all other Dark Paſſages of Providence. Then, we ſhall be able to give an account of every Accident that happens to every Man in this Life. We ſhall read in the Books of Heaven the Orders of the Divine Counſels: And there we ſhall ſee with what infinite Goodneſs, and Juſtice, and Wiſdom, God rules the World, and diſpoſes of Human Affairs. In the mean while, it becomes us to reverence the Invi<g ref="char:EOLhyphen"/>ſible Power and Majeſty of God; To ſtand in awe of his Judgments, tho' they ſeem ne<g ref="char:EOLhyphen"/>ver ſo far off; To <hi>Work out our own Salvation with fear and trembling</hi>
+                  <note n="(x)" place="margin">Phil. ii. 12.</note>: Being firmly per<g ref="char:EOLhyphen"/>ſwaded that God has ſet Bad Men <hi>in ſlip<g ref="char:EOLhyphen"/>pery Places: He caſts them down, and deſtroys them. O how ſuddenly do they conſume, periſh, and come to a fearful End</hi>
+                  <note n="(y)" place="margin">Pſal. lxxiii. 17, 18.</note>!</p>
+            </div>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <p>Page 15. line 9. for <hi>be Temperament,</hi> r. <hi>be a Temperament.</hi>
+            </p>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:62506:17"/>
+            <head>ADVERTISEMENTS.</head>
+            <div type="part">
+               <p>SERMON ſur l'Hymne Angélique &amp; Eucha<g ref="char:EOLhyphen"/>riſtique. <hi>Luc.</hi> II. 14. Prononcé dans l'Egliſe de <hi>St. Sauveur</hi> en l'Iſle de <hi>JERSEY,</hi> le <hi>3me.</hi> jour d'<hi>Avril,</hi> 1687. jour de Cene. <hi>4to.</hi>
+               </p>
+               <p>A SERMON Preach'd at St. <hi>Helier</hi> in the Iſle of <hi>JERSEY,</hi> before the Engliſh Garriſon, <hi>April</hi> 10. 1692. <hi>4to.</hi>
+               </p>
+               <p>
+                  <hi>Of the Impunity of Bad Men in the World.</hi> A SERMON Preach'd at <hi>WHITE-HALL, Dec.</hi> 30. 1694.</p>
+               <p>An Account of the Iſle of <hi>JERSEY,</hi> the Greateſt of thoſe Iſlands that are now the only Remainder of the Engliſh Dominions in <hi>France.</hi> With a new and accurate Map of the Iſland. Humbly Dedicated to His Majeſty. <hi>8vo.</hi>
+               </p>
+               <argument>
+                  <p>Theſe Four Written by <hi>PHILIP FALLE,</hi> M. A. Deputy from the States of the ſaid Iſland, and Chaplain in Ordinary to His Majeſty.</p>
+               </argument>
+            </div>
+            <div type="part">
+               <p>The Hiſtory of the Campagne in the <hi>Spaniſh Netherlands. Anno Dom.</hi> 1693. With an Exact Draught of the ſeveral Attacks of the French Line, by the Duke of <hi>Wirtemberg,</hi> with the Detachment under his Command. Done upon Copper. By <hi>Edw. D'Auvergne,</hi> M. A. Rector of St. <hi>Brelard</hi> in the Iſle of <hi>JERSEY,</hi> and Chaplain to His Ma<g ref="char:EOLhyphen"/>jeſty's Regiment of Scots Guards. <hi>4to.</hi>
+               </p>
+               <p>The Hiſtory of the Campagne in the <hi>Spaniſh Netherlands, Anno Dom.</hi> 1694. With the Journal of the Siege of <hi>Huy.</hi> By the ſame Author. <hi>4to.</hi>
+               </p>
+            </div>
+            <argument>
+               <p>Printed for <hi>John Newton,</hi> at the <hi>Three Pigeons,</hi> over-againſt the <hi>Inner-Temple Gate,</hi> in <hi>Fleet-ſtreet.</hi>
+               </p>
+            </argument>
+            <pb facs="tcp:62506:17"/>
+         </div>
+      </back>
+   </text>
+</TEI>
